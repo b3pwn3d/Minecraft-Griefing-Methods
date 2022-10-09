@@ -21,7 +21,16 @@ As I sayed, with qubo you can add arguments like min of players, version of the 
 This with nmap, masscan, angry ip or other tools you cant.
 Other people, use the nmap to get ips with a specific port(s), and then, with her own checker, get the servers.
 This I will talk it on the future.
-### Second ip range
+### Advanced ip range scan
+As I sayed before, you can perfom a ip range, but you can expand the ip range for better results.
+Instead of using 192.1.2.* you can try with 192.1.*.* 
+Expanding the range, you will get a lot of servers instead using just a range.
+
+The bad of this types of scanning, is that will take a lot of time to perfom it. We are talking about 1 hour to scan that type of range.
+And having your pc on so much, idk that is a good idea.
+Then, I will explain you how to make it more practical
+
+### Using a vps to scanning
 
 
 
