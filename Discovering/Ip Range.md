@@ -11,7 +11,9 @@ Lets put an eg:
 As you can see, the survival modality of the server, have other ip and port.
 So, scanning an ip range, we will try to find the hidden modality.
 Eg of a ip range scan:
+
 nmap 192.1.2.* --open -p 25565
+
 In this case I am using nmap, but you can use other tools.
 What I am saying in the scan, is that to scan all the range of ips, and give me it the ips that have the 25565 port open.
 And then, you can manually check the ports to find the server of the modality.
@@ -31,7 +33,11 @@ And having your pc on so much, idk that is a good idea.
 Then, I will explain you how to make it more practical
 
 ### Using a vps to scanning
-
+Getting a vps is really easy. You can get a really cheap one for 2 3 $.
+If you dont wanna pay for one, you can try hacking some SSH server to acces them and build your scanners there.
+Your vps should be a linux system, to be more faster.
+Once you have the vps, you can now start to perfom the scan with the qubo scanner.
+Remember to save the procces in second plan, so when you close the ssh connection, the task doesn`t kill
 
 
 
