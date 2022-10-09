@@ -12,4 +12,26 @@ I also saw the https://github.com/wodxgod/Griefing-Methods who had so many popul
   - Subdomain scan
   - Ip range scan
   - Shodan
-  - 
+
+- Exploiting
+   - Log4shell
+   - Login brute force
+   - Bungee cord hack
+   - md_5 nickname exploit
+   - Rcon hack
+   - Ssh bruteforcing 
+
+- Bypassing
+   - Authme bypass
+   - Only proxy join bypass
+   - UUId spoff 
+   - Ipwh bypass
+   - Commands exploitable
+   - Ip white list bypass
+
+- Social Engineering
+   - Plugin poisoning
+   - Fake login
+   - Keylogger 
+
+- Resources
