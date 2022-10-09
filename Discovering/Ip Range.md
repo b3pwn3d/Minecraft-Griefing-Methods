@@ -3,8 +3,11 @@ If you didnt read the e file, you might take a look it.
 Scanning just an ip, probably will not get any port. This is because the network have a  dedicated ip for the servers.
 Most users buys a dedicated ip for each server for more protection.
 Lets put an eg:
-192.1.2.3 -> 25565 service: Minecraft version: "Welcome to rinkcraft network"
+
+192.1.2.3 -> 25565 service: Minecraft version: "Welcome to rinkcraft network" 
+
 192.1.2.4 -> 25569 service: Minecraft version: "Survival rinkcraft network"
+
 As you can see, the survival modality of the server, have other ip and port.
 So, scanning an ip range, we will try to find the hidden modality.
 Eg of a ip range scan:
