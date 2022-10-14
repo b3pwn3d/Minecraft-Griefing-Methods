@@ -17,8 +17,7 @@ I also saw the https://github.com/wodxgod/Griefing-Methods who had so many popul
    - Log4shell
    - Login brute force
    - Bungee cord hack
-   - md_5 nickname exploit
-   - Rcon hack
+   - Rcon Brute Forcing
 
 - Bypassing
    - Authme bypass
