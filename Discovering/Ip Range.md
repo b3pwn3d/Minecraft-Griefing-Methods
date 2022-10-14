@@ -18,7 +18,7 @@ In this case I am using nmap, but you can use other tools.
 What I am saying in the scan, is that to scan all the range of ips, and give me it the ips that have the 25565 port open.
 And then, you can manually check the ports to find the server of the modality.
 Now, doing this, you might find other servers/network that dont belong the network target, with 0 players, with other version, that you probabyly you are not interested.
-Here come Qubo scan to help, Qubo scan acts like a scanner and checker at the same time. That why I dont recommend you to use nmap.
+Here come Qubo scan to help, Qubo scan acts like a scanner and checker at the same time. That`s why I don`t recommend you to use nmap.
 As I sayed, with qubo you can add arguments like min of players, version of the server, to clean the junk server.
 This with nmap, masscan, angry ip or other tools you cant.
 Other people, use the nmap to get ips with a specific port(s), and then, with her own checker, get the servers.
@@ -30,7 +30,7 @@ Expanding the range, you will get a lot of servers instead using just a range.
 
 The bad of this types of scanning, is that will take a lot of time to perfom it. We are talking about 1 hour to scan that type of range.
 And having your pc on so much, idk that is a good idea.
-Then, I will explain you how to make it more practical
+So, I will explain you, how to do it more easy and practical
 
 ### Using a vps to scanning
 Getting a vps is really easy. You can get a really cheap one for 2 3 $.
