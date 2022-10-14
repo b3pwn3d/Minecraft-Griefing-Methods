@@ -8,4 +8,4 @@ But remember, avoid scanning this types of ip`s, because their are protected by 
 
 104.* (Cloudfare)
 
-81.* (tcp shield=
+81.* (tcp shield)
