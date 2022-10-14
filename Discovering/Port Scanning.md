@@ -8,8 +8,11 @@ If you wanna start scanning ports on a ip or differents ips, you shouldn,t use t
 Qubo scanner, is propably the most used scanner to scan minecraft ports.
 Qubo scanner have 2 types of the scanner, a gui, and one throught terminal.
 This is because you have better arguments when you wanna scan. With qubo scan, you can add some arguments when you are scanning like:
+
 Players online: 
+
 Version of the server
+
 And much more!
 
 As you can see, qubo scan is a better option than the classic nmap.
