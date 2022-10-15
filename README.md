@@ -3,7 +3,7 @@
 
 ### Introduction
 As I sayed before, I am writting this documentation to explain how the minecraft servers get "hacked" and griefed.
-I also saw the https://github.com/wodxgod/Griefing-Methods who had so many popularity, so I decided to rewrite and update the methods
+I also saw the [Wodxgod methods](https://github.com/wodxgod/Griefing-Methods) who had so many popularity, so I decided to rewrite and update the methods
 
 ### List of the content
 - Discovering
