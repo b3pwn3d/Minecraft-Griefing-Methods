@@ -1,5 +1,5 @@
 # Shodan discovering
-Shodan is a really usefull tool to discover private server.
+[Shodan](https://www.shodan.io/dashboard) is a really usefull tool to discover private server.
 You can get a big list of minecraft servers around the world.
 Also you can make a big search using dorks.
 Some shodan works for minecraft servers:
