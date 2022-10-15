@@ -19,3 +19,7 @@ As you can see, qubo scan is a better option than the classic nmap.
 So, if you wanna try it, you can downlad it from here: 
 Now, if you are scanning just an ip, you can use your pc, but if you wanna scan an ip range with a big range of ports, you should use a vps.
 Here a will explain more: 
+
+### Resources
+- [Qubo Scanner](https://github.com/replydev/Quboscanner)
+- [Nmap](https://nmap.org/download)
