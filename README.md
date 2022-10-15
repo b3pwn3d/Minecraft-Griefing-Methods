@@ -8,9 +8,10 @@ I also saw the [Wodxgod methods](https://github.com/wodxgod/Griefing-Methods) wh
 ### List of the content
 - Discovering
   - Ip Resolve
-  - Ports scan
-  - Subdomain scan
-  - Ip range scan
+  - Ip scanning
+     - Ports Scanning
+     - Ip Range scanning
+     - Checker
   - Shodan
 
 - Exploiting
