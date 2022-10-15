@@ -25,7 +25,7 @@ Other people, use the nmap to get ips with a specific port(s), and then, with he
 This I will talk it on the future.
 ### Advanced ip range scan
 As I sayed before, you can perfom a ip range, but you can expand the ip range for better results.
-Instead of using 192.1.2.* you can try with 192.1.*.* 
+Instead of using 192.1.2.* you can try with 192.1. *. *  
 Expanding the range, you will get a lot of servers instead using just a range.
 
 The bad of this types of scanning, is that will take a lot of time to perfom it. We are talking about 1 hour to scan that type of range.
