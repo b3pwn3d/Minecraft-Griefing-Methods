@@ -7,7 +7,7 @@ I also saw the https://github.com/wodxgod/Griefing-Methods who had so many popul
 
 ### List of the content
 - Discovering
-  - Reverse Ip
+  - Ip Resolve
   - Ports scan
   - Subdomain scan
   - Ip range scan
