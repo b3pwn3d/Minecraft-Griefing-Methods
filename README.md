@@ -34,3 +34,6 @@ I also saw the [Wodxgod methods](https://github.com/wodxgod/Griefing-Methods) wh
    - Keylogger 
 
 - Resources
+   - Databases 
+   - Client's
+   - Scanner's
