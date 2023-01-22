@@ -1,8 +1,7 @@
 # Shodan discovering
-[Shodan](https://www.shodan.io/dashboard) is a really usefull tool to discover private server.
+[Shodan](https://www.shodan.io/dashboard) is a really usefull tool to discover private servers.
 You can get a big list of minecraft servers around the world.
-Also you can make a big search using dorks.
-Some shodan works for minecraft servers:
+Some shodan dorks to find minecraft servers:
 ` "Minecraft Server" `
 ` "BungeeCord" `
 ` port:25565 country:DE `
