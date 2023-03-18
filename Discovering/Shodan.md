@@ -6,4 +6,4 @@ Some shodan dorks to find minecraft servers:
 ` "BungeeCord" `
 ` port:25565 country:DE `
 
-For more optimal use, I recommend use the shodan api.
+You can also use shodan to get some ip ranges, and then, scan them.
