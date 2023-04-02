@@ -8,7 +8,7 @@ Lets put an eg:
 
 192.1.2.4 -> 25569 service: Minecraft version: "Survival rinkcraft network"
 
-As you can see, the survival modality of the server, have other ip and port.
+As you can see, the survival server of the network, have other ip and port.
 So, scanning an ip range, we will try to find the hidden modality.
 Eg of a ip range scan:
 
@@ -18,15 +18,15 @@ In this case I am using nmap, but you can use other tools.
 What I am saying in the scan, is that to scan all the range of ips, and give me it the ips that have the 25565 port open.
 And then, you can manually check the ports to find the server of the modality.
 Now, doing this, you might find other servers/network that dont belong the network target, with 0 players, with other version, that you probabyly you are not interested.
-Here come Qubo scan to help, Qubo scan acts like a scanner and checker at the same time. That`s why I don`t recommend you to use nmap.
+Here come Qubo scan to help, Qubo scan acts like a scanner and checker at the same time. Thats why I dont recommend you to use nmap.
 As I sayed, with qubo you can add arguments like min of players, version of the server, to clean the junk server.
 This with nmap, masscan, angry ip or other tools you cant.
 Other people, use the nmap to get ips with a specific port(s), and then, with her own checker, get the servers.
 This I will talk it on the future.
 ### Advanced ip range scan
-As I sayed before, you can perfom a ip range, but you can expand the ip range for better results.
+As I told you before, you can perfom a ip range, but you can expand the ip range for better results.
 Instead of using 192.1.2.* you can try with 192.1. *. *  
-Expanding the range, you will get a lot of servers instead using just a range.
+Expanding the range, you will get much more servers, instead using just a range.
 
 The bad of this types of scanning, is that will take a lot of time to perfom it. We are talking about 1 hour to scan that type of range.
 And having your pc on so much, idk that is a good idea.
