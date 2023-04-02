@@ -1,6 +1,6 @@
 # Ip White List Bypass
-This method consists in infect the victims pc, to get a reverse proxy of the victim, and then, whit her ip connect to the server.
-This "attack" is called Reverse Proxy, and is really common to see it on RAT`s
+To perfom this attack, you need to infect the victims pc, get a reverse proxy of the victim, and then whit her ip connect to the server.
+This "attack" is called also as Reverse Proxy, and is really common to see it on RAT`s
 
-You can check the Quasar Rat to get the code of this attack, and then make your own tool and start using it
+You can check the Quasar Rat to get the code of this payload, so you can get an idea on how its works
 https://github.com/quasar/Quasar
