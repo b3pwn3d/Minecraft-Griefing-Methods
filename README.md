@@ -13,14 +13,14 @@
 
 - Exploiting
    - Log4shell
-   - Login brute force
-   - Bungee cord hack
+   - Login brute forcing
+   - BungeeCord hack
    - Rcon Brute Forcing
 
 - Bypassing
    - Authme bypass
-   - Only proxy join bypass
-   - UUId spoff 
+   - OnlyProxyJoin bypass
+   - UUID Spoffing 
    - Ipwh bypass
    - Commands exploitable
    - Ip white list bypass
