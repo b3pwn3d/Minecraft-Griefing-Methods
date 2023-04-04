@@ -1,5 +1,5 @@
 # Minecraft Griefing & Hacking Methods
-### This is a documentation to explain how the servers get griefed and how to protect against them.
+### This is a documentation to explain how the networks get griefed and how to protect against them.
 
 
 ### List of the content
@@ -21,9 +21,9 @@
    - Authme bypass
    - OnlyProxyJoin bypass
    - UUID Spoffing 
-   - Ipwh bypass
+   - Account Ipwh Bypass
    - Commands exploitable
-   - Ip white list bypass
+   - Ip white List bypass
 
 - Social Engineering
    - Plugin poisoning
@@ -32,5 +32,5 @@
 
 - Resources
    - Databases 
-   - Client's
-   - Scanner's
+   - Clients
+   - Scanners
